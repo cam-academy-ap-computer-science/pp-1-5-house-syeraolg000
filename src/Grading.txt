@@ -1,0 +1,25 @@
+Graded 10/4 by Mark Congdon
+
+Total Score:		24/25
+
+Compiles and Runs:	15/15
+Correct Output:		6/6
+Consistent Style:	1/2
+Efficiency:			2/2
+
+Good work!
+
+For future projects, you will want to start adding comments.
+Everybody does comments slightly differently, but at a minimum
+it would have been good to have a comment for the set of
+methods that did the verses, and a comment for the set of
+methods that did the individual lines within the verses.
+You want your comments to help show the structure of your code.
+
+You used a capital letter at the beginning of the House()
+method, and lowercase letters at the beginning of all the other
+methods.  It will be really important to have a consistent
+way of naming your variables and methods.  I took off one point
+for that.
+
+Your program is as efficient as it can be.  Well done!
